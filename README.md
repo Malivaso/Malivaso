@@ -1,4 +1,11 @@
-### Hi there 👋
+# Information
+Just someone trying to make a mod for Gorilla Tag, that's all.
+..except I know nothing about C++ sooooo
+
+# Notice
+I am no longer working on MonkeColors, as those that distributed Tag Gun have caused Quest Modding to shut down. This is the largest "fuck you" I have ever given to **anyone.**
+
+# Fuck you, everyone that distributed Tag Gun. You've ruined modding.
 
 <!--
 **Malivaso/Malivaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
