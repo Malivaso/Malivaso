@@ -5,7 +5,9 @@ Just someone trying to make a mod for Gorilla Tag, that's all.
 # Notice
 I am no longer working on MonkeColors, as those that distributed Tag Gun have caused Quest Modding to shut down.
 
-# Fuck you to everyone that distributed Tag Gun. You've ruined modding, and are a complete disappointment to the modding community.
+# To those that distributed Tag Gun...
+You're a complete disappointment to the entire Gorilla Tag modding community, and you use cheats in a game of tag.
+I hope you cut your foot on a lego and it gets infected.
 
 <!--
 **Malivaso/Malivaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
