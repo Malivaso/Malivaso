@@ -3,7 +3,7 @@ Just someone trying to make a mod for Gorilla Tag, that's all.
 ..except I know nothing about C++ sooooo
 
 # Notice
-I am no longer working on MonkeColors, as those that distributed Tag Gun have caused Quest Modding to shut down.
+hi!!!!!!
 
 # To those that distributed Tag Gun...
 You're a complete disappointment to the entire Gorilla Tag modding community, and you use cheats in a game of tag.
